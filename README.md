@@ -1,6 +1,4 @@
-Parcial 3 Bigdata \n
-Punto 1 \n
-Scrapping a EL tiempo y Publimetro usando AWS Glue \n
-Punto 2 \n
-Ver variacion de precios en tiempo real con Pyspark-streaming-kafka \n
+Parcial 3 Bigdata <br/>
+Punto 1: Scrapping a EL tiempo y Publimetro usando AWS Glue <br/>
+Punto 2: Ver variacion de precios en tiempo real con Pyspark-streaming-kafka <br/>
 # BigData3Parcial
